@@ -16,3 +16,23 @@ body{
 .bg{
 background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
+
+.ny{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  font-size:23px;
+  font-weight: bold;
+  color:white;
+}
+.sub{
+  font-size: 32px;
+  font-weight: bold;
+}
+ .sub3{
+   font-size:23px;
+   font-weight: bold;
+ }
+.p2{
+  font-size: 14px
+}
+
+}
