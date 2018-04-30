@@ -34,5 +34,12 @@ background-image: url("https://s3.amazonaws.com/codecademy-content/programs/free
 .p2{
   font-size: 14px
 }
+.copy{
+  font-size:11px;
+  color:white;
 
+}
+.bottom{
+  background-color: dimgray;
+  text-align: left;
 }
